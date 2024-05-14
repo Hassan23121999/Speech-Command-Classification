@@ -22,7 +22,7 @@ This project provides a speech command classification system using a Convolution
 ## Flow Chart
 The following flow chart illustrates the programming flow for the speech command classification system:
 
-![Speech Command Classification Flow Chart](path/to/your/image.png)
+![Speech Command Classification Flow Chart](Flowchart.png)
 
 ## Installation
 
