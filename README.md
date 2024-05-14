@@ -3,7 +3,7 @@ A speech command classification system using a Convolutional Neural Network (CNN
 
 
 
-# Speech Command Classification
+
 
 ## Project Description
 This project provides a speech command classification system using a Convolutional Neural Network (CNN) for training and testing audio datasets. The system imports datasets, processes raw audio files, defines a neural network architecture, and trains, tests, and validates the model. The goal is to classify spoken commands with high accuracy.
